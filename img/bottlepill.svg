@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 392.039 448" enable-background="new 0 0 392.039 448" xml:space="preserve" class=""><g><g>
+	<defs class="active-path" style="fill:#FFFEFE" data-old_color="#000000">
+		<rect id="SVGID_1_" width="392.039" height="448" data-original="#000000" fill="#FFFFFF"/>
+	</defs>
+	<clipPath id="SVGID_2_" class="active-path" style="fill:#FFFEFE" data-old_color="#000000">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#SVGID_1_" overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" d="M360,368.801v78.398c18.645-3.785,32.039-20.175,32.039-39.199   C392.039,388.977,378.645,372.586,360,368.801" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	<path clip-path="url(#SVGID_2_)" d="M312,408c0.023,19,13.387,35.371,32,39.199v-78.398C325.387,372.629,312.023,389,312,408" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	<path clip-path="url(#SVGID_2_)" d="M176,424c0,13.254,10.746,24,24,24h24v-48h-24C186.746,400,176,410.746,176,424" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	<path clip-path="url(#SVGID_2_)" d="M0,408h163.391c6.355-14.559,20.722-23.98,36.609-24h24V240H0V408z M64,304h32v-32h32v32h32v32   h-32v32H96v-32H64V304z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	<path clip-path="url(#SVGID_2_)" d="M0,424v24h168.207c-5.293-6.883-8.176-15.316-8.207-24H0z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	<path clip-path="url(#SVGID_2_)" d="M102.801,72h18.398c7.656,0.016,15.289,0.766,22.801,2.246V64H80v10.246   C87.512,72.766,95.145,72.016,102.801,72" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	<path clip-path="url(#SVGID_2_)" d="M200,6.816c-0.004-3.761-3.055-6.812-6.816-6.816H30.785C27.035,0.023,24.004,3.066,24,6.816   V48h176V6.816z M56,40H40V8h16V40z M88,40H72V8h16V40z M120,40h-16V8h16V40z M152,40h-16V8h16V40z M184,40h-16V8h16V40z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	<path clip-path="url(#SVGID_2_)" d="M121.199,88h-18.398C46.051,88.066,0.066,134.051,0,190.801V224h224v-33.199   C223.934,134.051,177.949,88.066,121.199,88 M104,152c-30.914,0.035-55.965,25.086-56,56H32c0.047-39.746,32.254-71.953,72-72V152z   " data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	<path clip-path="url(#SVGID_2_)" d="M264,400h-24v48h24c13.254,0,24-10.746,24-24S277.254,400,264,400" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+</g></g> </svg>

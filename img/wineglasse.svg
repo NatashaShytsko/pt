@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 238 426" enable-background="new 0 0 238 426" xml:space="preserve" class=""><g><g>
+	<defs class="active-path" style="fill:#FDFDFD" data-old_color="#FDFDFC">
+		<rect id="SVGID_1_" width="238" height="426" data-original="#000000" fill="#FDFDFD"/>
+	</defs>
+	<clipPath id="SVGID_2_" class="active-path" style="fill:#FDFDFD" data-old_color="#FDFDFC">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#SVGID_1_" overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" d="M205.824,239.625c22.289-23.719,33.578-55.719,31.117-88.172l-1.785-13H2.645L0.77,152.094   c-4.205,63.855,43.67,119.246,107.467,124.324v128.281H44.34V426h149.102v-21.301h-63.902V276.418   C158.707,274.238,185.96,261.09,205.824,239.625 M161.73,221.797c9.379-6.485,17.227-14.942,22.996-24.774l18.406,10.653   c-7.316,12.484-17.261,23.219-29.148,31.469c-16.227,11.047-35.473,16.793-55.093,16.457v-21.301   c15.234,0.34,30.198-4.043,42.839-12.547V221.797z" data-original="#000000" class="active-path" data-old_color="#FDFDFC" fill="#FDFDFD"/>
+</g><polygon points="21.676,0 5.575,117.148 232.227,117.148 216.102,0 " data-original="#000000" class="active-path" data-old_color="#FDFDFC" fill="#FDFDFD"/></g> </svg>
